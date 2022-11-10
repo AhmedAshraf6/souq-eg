@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/souq-eg/static/css/main.a40a34ff.css",
-    "main.js": "/souq-eg/static/js/main.175ca519.js",
+    "main.js": "/souq-eg/static/js/main.045bacf9.js",
     "static/media/test2.png": "/souq-eg/static/media/test2.86549c48d7a9869bae0a.png",
     "static/media/person3.png": "/souq-eg/static/media/person3.4aab3dc0d27cfe4d0b4b.png",
     "static/media/test.png": "/souq-eg/static/media/test.772af3d6d3f8b9aa1b39.png",
@@ -31,10 +31,10 @@
     "static/media/logout.png": "/souq-eg/static/media/logout.68f412e5393776478a62.png",
     "index.html": "/souq-eg/index.html",
     "main.a40a34ff.css.map": "/souq-eg/static/css/main.a40a34ff.css.map",
-    "main.175ca519.js.map": "/souq-eg/static/js/main.175ca519.js.map"
+    "main.045bacf9.js.map": "/souq-eg/static/js/main.045bacf9.js.map"
   },
   "entrypoints": [
     "static/css/main.a40a34ff.css",
-    "static/js/main.175ca519.js"
+    "static/js/main.045bacf9.js"
   ]
 }
