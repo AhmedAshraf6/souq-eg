@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/souq-eg/static/css/main.a40a34ff.css",
-    "main.js": "/souq-eg/static/js/main.045bacf9.js",
+    "main.css": "/souq-eg/static/css/main.f227ed44.css",
+    "main.js": "/souq-eg/static/js/main.3a0d0ab2.js",
     "static/media/test2.png": "/souq-eg/static/media/test2.86549c48d7a9869bae0a.png",
     "static/media/person3.png": "/souq-eg/static/media/person3.4aab3dc0d27cfe4d0b4b.png",
     "static/media/test.png": "/souq-eg/static/media/test.772af3d6d3f8b9aa1b39.png",
+    "static/media/document2.png": "/souq-eg/static/media/document2.4837885d5033dd11a5e4.png",
     "static/media/success.png": "/souq-eg/static/media/success.3c0b774ae30f93c9a7fd.png",
+    "static/media/chat.png": "/souq-eg/static/media/chat.ee497c455b660d1f9b70.png",
     "static/media/bestseller.png": "/souq-eg/static/media/bestseller.606ba1040f80bdfc6095.png",
     "static/media/setting.png": "/souq-eg/static/media/setting.7590073bf97c4a0b488a.png",
     "static/media/photocamera.png": "/souq-eg/static/media/photocamera.9cc066fd6566bb5ee60b.png",
@@ -15,10 +17,11 @@
     "static/media/share.png": "/souq-eg/static/media/share.17225408c7a82f3f5193.png",
     "static/media/free.png": "/souq-eg/static/media/free.84b36c752b1ecb541f35.png",
     "static/media/playbutton.png": "/souq-eg/static/media/playbutton.f3ea1c3c7d44c6aef905.png",
-    "static/media/chat.png": "/souq-eg/static/media/chat.ee497c455b660d1f9b70.png",
     "static/media/w.png": "/souq-eg/static/media/w.59abcc1e682bc5f395c1.png",
     "static/media/add.png": "/souq-eg/static/media/add.848aaa743f686f37cb0d.png",
     "static/media/help.png": "/souq-eg/static/media/help.dbf3c3a018273473bd6f.png",
+    "static/media/mylocation.png": "/souq-eg/static/media/mylocation.2e9ea405591175fb8d28.png",
+    "static/media/camera.png": "/souq-eg/static/media/camera.2db9442b96b0a87d4d1a.png",
     "static/media/heart.png": "/souq-eg/static/media/heart.36c68c1136ef3607569a.png",
     "static/media/user.png": "/souq-eg/static/media/user.62543445db2221615a9d.png",
     "static/media/facebook.png": "/souq-eg/static/media/facebook.a5def58db1e9c1b38269.png",
@@ -26,15 +29,16 @@
     "static/media/loupe.png": "/souq-eg/static/media/loupe.582ca3a0f9aab38bfde1.png",
     "static/media/blogger.png": "/souq-eg/static/media/blogger.64a0d6f8db262bf89f4a.png",
     "static/media/twitter.png": "/souq-eg/static/media/twitter.894988327f8d68209e91.png",
+    "static/media/document1.png": "/souq-eg/static/media/document1.bcd259a159fb231aab3f.png",
     "static/media/pin.png": "/souq-eg/static/media/pin.46878f210890e2247806.png",
     "static/media/heart2.png": "/souq-eg/static/media/heart2.5d39384fa14806ef51c3.png",
     "static/media/logout.png": "/souq-eg/static/media/logout.68f412e5393776478a62.png",
     "index.html": "/souq-eg/index.html",
-    "main.a40a34ff.css.map": "/souq-eg/static/css/main.a40a34ff.css.map",
-    "main.045bacf9.js.map": "/souq-eg/static/js/main.045bacf9.js.map"
+    "main.f227ed44.css.map": "/souq-eg/static/css/main.f227ed44.css.map",
+    "main.3a0d0ab2.js.map": "/souq-eg/static/js/main.3a0d0ab2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a40a34ff.css",
-    "static/js/main.045bacf9.js"
+    "static/css/main.f227ed44.css",
+    "static/js/main.3a0d0ab2.js"
   ]
 }
